@@ -1,5 +1,4 @@
 
-readme_content = """
 # Parisian Sunset – Privacy Policy
 
 This repository contains the Privacy Policy for the mobile application **Parisian Sunset**, developed by **Kadirov Studio**.
